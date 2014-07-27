@@ -1,0 +1,7 @@
+git+https://github.com/openstack/python-keystoneclient.git
+git+https://github.com/openstack/python-novaclient.git
+git+https://github.com/openstack/python-glanceclient.git
+git+https://github.com/openstack/python-swiftclient.git
+git+https://github.com/openstack/python-cinderclient.git
+git+https://github.com/openstack/python-heatclient.git
+git+https://github.com/openstack/python-ceilometerclient.git
