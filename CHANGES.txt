@@ -1,1 +1,2 @@
 v0.0.1, 11-24-2013 -- Initial release.
+v0.0.2, 07-27-2014 -- Updated README and example.

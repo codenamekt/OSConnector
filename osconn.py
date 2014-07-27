@@ -189,7 +189,7 @@ if __name__ == '__main__':
     Example Usage
     """
 
-    AUTH_URL = "http://192.168.1.118:5000/v2.0"
+    AUTH_URL = "http://example.com:5000/v2.0"
     AUTH_USER = "toby"
     AUTH_PASS = "password"
     AUTH_TENANT = "toby_project"
